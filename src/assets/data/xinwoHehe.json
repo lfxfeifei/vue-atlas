@@ -1,0 +1,86 @@
+{
+  "orderNo": "01401420201231991000015914",
+  "resultData": {
+    "P0090008Data": {
+      "controllerList": [
+        {
+          "controller": "镇立新",
+          "controlPathList": [
+            {
+              "shouldCapital": "2418.78",
+              "stockHolderName": "镇立新",
+              "investedCompanyName": "上海合合信息科技股份有限公司",
+              "percent": "32.25%"
+            },
+            {
+              "shouldCapital": "115.7025",
+              "stockHolderName": "端临（上海）科技发展合伙企业（有限合伙）",
+              "investedCompanyName": "上海合合信息科技股份有限公司",
+              "percent": "1.54%"
+            },
+            {
+              "shouldCapital": "1",
+              "stockHolderName": "镇立新",
+              "investedCompanyName": "端临（上海）科技发展合伙企业（有限合伙）",
+              "percent": "0.67%"
+            },
+            {
+              "shouldCapital": "149",
+              "stockHolderName": "上海狮吼投资管理有限责任公司",
+              "investedCompanyName": "端临（上海）科技发展合伙企业（有限合伙）",
+              "percent": "99.33%"
+            },
+            {
+              "shouldCapital": "9",
+              "stockHolderName": "镇立新",
+              "investedCompanyName": "上海狮吼投资管理有限责任公司",
+              "percent": "90.00%"
+            },
+            {
+              "shouldCapital": "92.565",
+              "stockHolderName": "上海融梨然投资中心（有限合伙）",
+              "investedCompanyName": "上海合合信息科技股份有限公司",
+              "percent": "1.23%"
+            },
+            {
+              "shouldCapital": "4.5",
+              "stockHolderName": "上海狮吼投资管理有限责任公司",
+              "investedCompanyName": "上海融梨然投资中心（有限合伙）",
+              "percent": "2.81%"
+            },
+            {
+              "shouldCapital": "78.675",
+              "stockHolderName": "上海顶螺投资中心（有限合伙）",
+              "investedCompanyName": "上海合合信息科技股份有限公司",
+              "percent": "1.05%"
+            },
+            {
+              "shouldCapital": "3.8",
+              "stockHolderName": "上海狮吼投资管理有限责任公司",
+              "investedCompanyName": "上海顶螺投资中心（有限合伙）",
+              "percent": "2.79%"
+            },
+            {
+              "shouldCapital": "289.26",
+              "stockHolderName": "上海目一然投资中心（有限合伙）",
+              "investedCompanyName": "上海合合信息科技股份有限公司",
+              "percent": "3.86%"
+            },
+            {
+              "shouldCapital": "18.965",
+              "stockHolderName": "上海狮吼投资管理有限责任公司",
+              "investedCompanyName": "上海目一然投资中心（有限合伙）",
+              "percent": "37.93%"
+            }
+          ],
+          "percent": "35.01%"
+        }
+      ]
+    },
+    "P0090008Status": "4"
+  },
+  "packetCnt": 1,
+  "resultCode": "00000",
+  "resultDesc": "成功",
+  "isCompressed": 0
+}

@@ -1,0 +1,154 @@
+{
+    "data": {
+        "actualController": {
+            "hId": "2237214325",
+            "gId": "3447532802",
+            "name": "镇立新",
+            "type": 1
+        },
+        "pathmap": {
+            "edges": [
+                {
+                    "source": "2237214325",
+                    "type": "INVEST",
+                    "target": "3447532802",
+                    "label": "37.14%",
+                    "isRed": 1,
+                    "percent": 0.3714
+                },
+                {
+                    "source": "2343827835",
+                    "type": "INVEST",
+                    "target": "3447532802",
+                    "label": "4.28%",
+                    "isRed": 0,
+                    "percent": 0.042800000000000005
+                },
+                {
+                    "source": "2237214325",
+                    "type": "INVEST",
+                    "target": "1717915466",
+                    "label": "90%",
+                    "isRed": 1,
+                    "percent": 0.9
+                },
+                {
+                    "source": "1717915466",
+                    "type": "OWN",
+                    "target": "2343827839",
+                    "label": "执行事务合伙人 1.25%",
+                    "isRed": 0,
+                    "percent": 0.0125
+                },
+                {
+                    "source": "1717915466",
+                    "type": "OWN",
+                    "target": "2343827838",
+                    "label": "执行事务合伙人 10%",
+                    "isRed": 0,
+                    "percent": 0.1
+                },
+                {
+                    "source": "2343827838",
+                    "type": "INVEST",
+                    "target": "3447532802",
+                    "label": "1.71%",
+                    "isRed": 0,
+                    "percent": 0.0171
+                },
+                {
+                    "source": "1717915466",
+                    "type": "OWN",
+                    "target": "2343827836",
+                    "label": "执行事务合伙人 1.47%",
+                    "isRed": 0,
+                    "percent": 0.0147
+                },
+                {
+                    "source": "1717915466",
+                    "type": "OWN",
+                    "target": "2343827835",
+                    "label": "执行事务合伙人 33.83%",
+                    "isRed": 0,
+                    "percent": 0.3383
+                },
+                {
+                    "source": "2343827839",
+                    "type": "INVEST",
+                    "target": "3447532802",
+                    "label": "1.37%",
+                    "isRed": 0,
+                    "percent": 0.0137
+                },
+                {
+                    "source": "2343827836",
+                    "type": "INVEST",
+                    "target": "3447532802",
+                    "label": "1.16%",
+                    "isRed": 0,
+                    "percent": 0.0116
+                }
+            ],
+            "nodes": [
+                {
+                    "id": "2343827836",
+                    "name": "上海顶螺投资中心（有限合伙）",
+                    "dataType": "alps",
+                    "labels": [
+                        "Company"
+                    ]
+                },
+                {
+                    "id": "1717915466",
+                    "name": "上海狮吼投资管理有限责任公司",
+                    "dataType": "alps",
+                    "labels": [
+                        "Company"
+                    ]
+                },
+                {
+                    "id": "2343827835",
+                    "name": "上海目一然投资中心（有限合伙）",
+                    "dataType": "sql",
+                    "labels": [
+                        "Company"
+                    ]
+                },
+                {
+                    "id": "3447532802",
+                    "name": "上海合合信息科技股份有限公司",
+                    "dataType": "sql",
+                    "labels": [
+                        "Company"
+                    ]
+                },
+                {
+                    "id": "2237214325",
+                    "name": "镇立新",
+                    "logo": "https://img.tianyancha.com/logo/human/2/b6c4de0d02ea18e366880847fa172942.png@!t07",
+                    "dataType": "image",
+                    "labels": [
+                        "Human"
+                    ]
+                },
+                {
+                    "id": "2343827838",
+                    "name": "上海机不可熙投资中心（有限合伙）",
+                    "dataType": "sql",
+                    "labels": [
+                        "Company"
+                    ]
+                },
+                {
+                    "id": "2343827839",
+                    "name": "上海融梨然投资中心（有限合伙）",
+                    "dataType": "sql",
+                    "labels": [
+                        "Company"
+                    ]
+                }
+            ]
+        },
+        "ratio": 0.3286
+    }
+}

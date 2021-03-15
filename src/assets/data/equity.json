@@ -1,0 +1,343 @@
+{
+    "data": {
+        "companyType": "0",
+        "name": "上海合合信息科技股份有限公司",
+        "id": 3447532802,
+        "investorList": [
+            {
+                "amount": "5000万人民币",
+                "companyType": "0",
+                "percentFloat": "1.0",
+                "name": "上海生腾数据科技有限公司",
+                "isHoldingCompany": true,
+                "id": 3075030723,
+                "source": 5,
+                "hasNode": true,
+                "percent": "100%",
+                "brand": "启信宝"
+            },
+            {
+                "amount": "150万元",
+                "regStatus": "注销",
+                "companyType": "0",
+                "percentFloat": "0.2496",
+                "name": "上海派尔弗投资中心（有限合伙）",
+                "id": 3051183167,
+                "source": 7,
+                "hasNode": false,
+                "percent": "24.96%"
+            },
+            {
+                "amount": "100万人民币",
+                "companyType": "0",
+                "percentFloat": "1.0",
+                "name": "上海找贝数据科技有限公司",
+                "isHoldingCompany": true,
+                "id": 3150698871,
+                "source": 5,
+                "hasNode": false,
+                "percent": "100%",
+                "brand": "找到APP"
+            },
+            {
+                "amount": "22.11万人民币",
+                "companyType": "0",
+                "percentFloat": "0.11",
+                "name": "无锡微签智能科技有限公司",
+                "id": 3102513581,
+                "source": 0,
+                "hasNode": false,
+                "percent": "11%",
+                "brand": "微签签证"
+            },
+            {
+                "amount": "100万人民币",
+                "companyType": "0",
+                "percentFloat": "1.0",
+                "name": "上海盈五蓄数据科技有限公司",
+                "isHoldingCompany": true,
+                "id": 3150638624,
+                "source": 5,
+                "hasNode": false,
+                "percent": "100%",
+                "brand": "桔子兼职"
+            },
+            {
+                "amount": "50万人民币",
+                "companyType": "0",
+                "percentFloat": "0.0455",
+                "name": "深圳帕米尔信息科技有限公司",
+                "id": 3395973853,
+                "source": 0,
+                "hasNode": true,
+                "percent": "4.55%",
+                "brand": "帕米尔"
+            },
+            {
+                "amount": "100万人民币",
+                "companyType": "0",
+                "percentFloat": "1.0",
+                "name": "上海临冠数据科技有限公司",
+                "isHoldingCompany": true,
+                "id": 3113437002,
+                "source": 5,
+                "hasNode": false,
+                "percent": "100%"
+            },
+            {
+                "amount": "35万人民币",
+                "companyType": "0",
+                "percentFloat": "0.35",
+                "name": "上海信湃信息科技有限公司",
+                "id": 3302584405,
+                "source": 0,
+                "hasNode": false,
+                "percent": "35%"
+            },
+            {
+                "amount": "25.1万人民币",
+                "companyType": "0",
+                "percentFloat": "0.0161",
+                "name": "图谱天下（北京）科技有限公司",
+                "id": 25634832,
+                "source": 0,
+                "hasNode": true,
+                "percent": "1.61%",
+                "brand": "图谱天下"
+            },
+            {
+                "amount": "1000万人民币",
+                "companyType": "0",
+                "percentFloat": "1.0",
+                "name": "苏州贝尔塔数据技术有限公司",
+                "isHoldingCompany": true,
+                "id": 2309647428,
+                "source": 5,
+                "hasNode": false,
+                "percent": "100%"
+            },
+            {
+                "amount": "2.67万人民币",
+                "companyType": "0",
+                "percentFloat": "0.0217",
+                "name": "上海烯牛信息技术有限公司",
+                "id": 2350587667,
+                "source": 0,
+                "hasNode": false,
+                "percent": "2.17%",
+                "brand": "烯牛数据"
+            },
+            {
+                "amount": "1000",
+                "companyType": "0",
+                "percentFloat": "0.1384",
+                "name": "宁波长汇嘉信投资中心（有限合伙）",
+                "isHoldingCompany": true,
+                "id": 2350742269,
+                "source": 14,
+                "hasNode": false,
+                "percent": "13.84%"
+            },
+            {
+                "amount": "-",
+                "companyType": "0",
+                "percentFloat": "0.0",
+                "name": "前海梧桐（深圳）数据有限公司",
+                "id": 3014653076,
+                "source": 17,
+                "hasNode": true,
+                "percent": "-",
+                "brand": "梧桐数据"
+            },
+            {
+                "amount": "46.15万人民币",
+                "companyType": "0",
+                "percentFloat": "0.4615",
+                "name": "上海找齐科技有限公司",
+                "isHoldingCompany": true,
+                "id": 3464106542,
+                "source": 0,
+                "hasNode": false,
+                "percent": "46.15%"
+            }
+        ],
+        "brand": "合合信息",
+        "holderList": [
+            {
+                "amount": "35.245万元",
+                "companyType": "0",
+                "percentFloat": "0.0352",
+                "name": "东方富海（芜湖）二号股权投资基金（有限合伙）",
+                "id": 24593025,
+                "source": 23,
+                "hasNode": true,
+                "percent": "3.52%",
+                "cid": 3447532802
+              
+
+            },
+            {
+                "amount": "24.367万元",
+                "percentFloat": "0.0244",
+                "name": "其实",
+                "id": 1798675598,
+                "source": 23,
+                "hasNode": false,
+                "percent": "2.44%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "14.25万元",
+                "percentFloat": "0.0143",
+                "name": "金连文",
+                "id": 2232113838,
+                "source": 23,
+                "hasNode": false,
+                "percent": "1.43%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "71.25万元",
+                "companyType": "0",
+                "percentFloat": "0.0712",
+                "name": "常州鼎仕投资合伙企业（有限合伙）",
+                "id": 611581484,
+                "source": 23,
+                "hasNode": true,
+                "percent": "7.12%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "74.896万元",
+                "companyType": "0",
+                "percentFloat": "0.0749",
+                "name": "东方富海（芜湖）股权投资基金（有限合伙）",
+                "id": 24592835,
+                "source": 23,
+                "hasNode": true,
+                "percent": "7.49%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "72.579万元",
+                "percentFloat": "0.0726",
+                "name": "陈青山",
+                "id": 2259774417,
+                "source": 23,
+                "hasNode": false,
+                "percent": "7.26%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "39.589万元",
+                "percentFloat": "0.0396",
+                "name": "龙腾",
+                "id": 2307222627,
+                "source": 23,
+                "hasNode": false,
+                "percent": "3.96%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "79.177万元",
+                "percentFloat": "0.0792",
+                "name": "罗希平",
+                "id": 2112477160,
+                "source": 23,
+                "hasNode": false,
+                "percent": "7.92%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "58.027万元",
+                "companyType": "0",
+                "percentFloat": "0.058",
+                "name": "经纬（杭州）创业投资合伙企业（有限合伙）",
+                "id": 25153773,
+                "source": 23,
+                "hasNode": true,
+                "percent": "5.8%",
+                "cid": 3447532802
+            },
+            {
+                "isFHolder": true,
+                "isActualController": true,
+                "amount": "371.37万元",
+                "percentFloat": "0.3714",
+                "name": "镇立新",
+                "holderPercent": "38.63%",
+                "id": 2237214325,
+                "source": 23,
+                "hasNode": false,
+                "percent": "37.14%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "42.75万元",
+                "companyType": "0",
+                "percentFloat": "0.0428",
+                "name": "上海目一然投资中心（有限合伙）",
+                "id": 2343827835,
+                "source": 23,
+                "hasNode": true,
+                "percent": "4.28%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "11.628万元",
+                "companyType": "0",
+                "percentFloat": "0.0116",
+                "name": "上海顶螺投资中心（有限合伙）",
+                "id": 2343827836,
+                "source": 23,
+                "hasNode": true,
+                "percent": "1.16%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "50.342万元",
+                "companyType": "0",
+                "percentFloat": "0.0503",
+                "name": "上海卉新投资中心（有限合伙）",
+                "id": 2343827837,
+                "source": 23,
+                "hasNode": true,
+                "percent": "5.03%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "13.68万元",
+                "companyType": "0",
+                "percentFloat": "0.0137",
+                "name": "上海融梨然投资中心（有限合伙）",
+                "id": 2343827839,
+                "source": 23,
+                "hasNode": true,
+                "percent": "1.37%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "23.75万元",
+                "companyType": "0",
+                "percentFloat": "0.0237",
+                "name": "上海奇成投资合伙企业（有限合伙",
+                "id": 3420063620,
+                "source": 23,
+                "hasNode": false,
+                "percent": "2.37%",
+                "cid": 3447532802
+            },
+            {
+                "amount": "17.1万元",
+                "companyType": "0",
+                "percentFloat": "0.0171",
+                "name": "上海机不可熙投资中心（有限合伙）",
+                "id": 2343827838,
+                "source": 23,
+                "hasNode": true,
+                "percent": "1.71%",
+                "cid": 3447532802
+            }
+        ]
+    }
+}

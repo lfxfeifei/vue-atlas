@@ -1,0 +1,55 @@
+#product_tree {
+	touch-action: none;
+	z-index: 999;
+ 
+}
+ 
+#rtbtn {
+	position: fixed;
+	width: 25px;
+	height: 25px;
+	top: 20px;
+	border-radius: 4px;
+	box-sizing: content-box;
+	background: #fff;
+	border: 1px solid rgb(83, 99, 187);
+	z-index: 9999;
+	text-align: center;
+	right: 30px;
+}
+ 
+#rtbtn img {
+	width: 26px;
+}
+ 
+#download {
+	position: fixed;
+	width: 25px;
+	height: 25px;
+	top: 20px;
+	border-radius: 4px;
+	background: #fff;
+	border: 1px solid rgb(83, 99, 187);
+	z-index: 9999;
+	text-align: center;
+	right: 80px;
+}
+ 
+@media screen and (orientation:portrait) {
+ 
+	/*屏幕旋转90*/
+	#product_tree {
+		transform-origin: 0 0;
+		transform: rotateZ(90deg) translateY(-100%);
+	}
+}
+ 
+#product_tree>.centralText {
+	font: 23spx sans-serif;
+	fill: #222;
+}
+ 
+#product_tree>.downwardNode text,
+#product_tree>.upwardNode text {
+	font: 15px sans-serif;
+}

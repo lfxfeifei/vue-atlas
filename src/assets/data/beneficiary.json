@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "category": "3",
+      "draggable": "true",
+      "label": "贾跃亭",
+      "id": "贾跃亭"
+    },
+    {
+      "category": "3",
+      "draggable": "true",
+      "label": "赵凯",
+      "id": "赵凯"
+    },
+    {
+      "category": "3",
+      "draggable": "true",
+      "label": "吴孟",
+      "id": "吴孟"
+    },
+    {
+      "category": "0",
+      "draggable": "true",
+      "label": "乐视控股（北京）有限公司",
+      "id": "乐视控股（北京）有限公司"
+    }
+  ],
+  "edges": [
+    {
+      "source": "贾跃亭",
+      "target": "乐视控股（北京）有限公司",
+      "label": "执行董事"
+    },
+    {
+      "source": "赵凯",
+      "target": "乐视控股（北京）有限公司",
+      "label": "监事"
+    },
+    {
+      "source": "吴孟",
+      "target": "乐视控股（北京）有限公司",
+      "label": "经理"
+    },
+    {
+      "source": "贾跃亭",
+      "target": "乐视控股（北京）有限公司",
+      "label": "92.07%"
+    }
+  ]
+}

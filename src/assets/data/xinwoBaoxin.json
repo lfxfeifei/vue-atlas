@@ -1,0 +1,68 @@
+{
+  "orderNo": "01401420201230991000024671",
+  "resultData": {
+    "P0090008Data": {
+      "controllerList": [
+        {
+          "controller": "国务院国有资产监督管理委员会",
+          "controlPathList": [
+            {
+              "shouldCapital": "17500",
+              "stockHolderName": "上海宝信软件股份有限公司",
+              "investedCompanyName": "宝信软件（武汉）有限公司",
+              "percent": "100.00%"
+            },
+            {
+              "shouldCapital": "579443712",
+              "stockHolderName": "宝山钢铁股份有限公司",
+              "investedCompanyName": "上海宝信软件股份有限公司",
+              "percent": "50.14%"
+            },
+            {
+              "shouldCapital": "10813395355",
+              "stockHolderName": "中国宝武钢铁集团有限公司",
+              "investedCompanyName": "宝山钢铁股份有限公司",
+              "percent": "48.55%"
+            },
+            {
+              "shouldCapital": "5279110.1",
+              "stockHolderName": "国务院国有资产监督管理委员会",
+              "investedCompanyName": "中国宝武钢铁集团有限公司",
+              "percent": "100.00%"
+            },
+            {
+              "shouldCapital": "800000000",
+              "stockHolderName": "中国石油天然气集团有限公司",
+              "investedCompanyName": "宝山钢铁股份有限公司",
+              "percent": "3.59%"
+            },
+            {
+              "shouldCapital": "48690000",
+              "stockHolderName": "国务院国有资产监督管理委员会",
+              "investedCompanyName": "中国石油天然气集团有限公司",
+              "percent": "100.00%"
+            },
+            {
+              "shouldCapital": "2982172472",
+              "stockHolderName": "武钢集团有限公司",
+              "investedCompanyName": "宝山钢铁股份有限公司",
+              "percent": "13.39%"
+            },
+            {
+              "shouldCapital": "473961",
+              "stockHolderName": "中国宝武钢铁集团有限公司",
+              "investedCompanyName": "武钢集团有限公司",
+              "percent": "100.00%"
+            }
+          ],
+          "percent": "32.86%"
+        }
+      ]
+    },
+    "P0090008Status": "4"
+  },
+  "packetCnt": 1,
+  "resultCode": "00000",
+  "resultDesc": "成功",
+  "isCompressed": 0
+}
